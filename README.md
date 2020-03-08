@@ -1,2 +1,2 @@
 # Wordpress-theme-from-scratch
-WordPress Theme from Scratch by Coding (Manually)
+WordPress Theme from Scratch (Tech Blog)
